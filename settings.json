@@ -1,14 +1,11 @@
 {
-  // Themes
   "workbench.colorTheme": "Darcula Mono",
   "workbench.iconTheme": "material-icon-theme",
 
-  // Cursor settings
   "editor.cursorStyle": "block",
   "editor.cursorBlinking": "solid",
   "editor.cursorSmoothCaretAnimation": "on",
 
-  // Other settings
   "workbench.sideBar.location": "right",
   "breadcrumbs.enabled": false,
   "workbench.statusBar.visible": false,
